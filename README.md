@@ -1,6 +1,6 @@
 # Sample-NodeJS-Web-Application- MEAN STACK User Registration with Authentication
-This application implements two different tasks.
-## 1. User Registration with Authentication
+This application implements two different independent tasks.
+## 1. User Registration with Authentication using Angular 6
 
 ### run the below command from Angular6 folder
 ```
