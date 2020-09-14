@@ -5,8 +5,5 @@ mongoose.connect(process.env.MONGODB_URI, (err) => {
     else { console.log('Error in MongoDB connection : ' + JSON.stringify(err, undefined, 2)); }
 });
 
-
-
 // define models with schemas
-const Course = require("./course.model")
 require('./user.model');
