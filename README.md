@@ -1,4 +1,4 @@
-# Sample-NodeJS-Web-Application- MEAN STACK User Registration with Authentication
+# MEAN STACK User Registration with Authentication
 
 ##  User Registration with Authentication using Angular 6
 
